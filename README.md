@@ -35,5 +35,13 @@ Welcome to the AI Hackathon Challenge application! This Streamlit app allows par
 - Python 3.x
 
 
+Sample Webpage
+
+<img width="1509" alt="Screenshot 2024-10-01 at 3 08 17 PM" src="https://github.com/user-attachments/assets/56066032-c9ca-465e-90f9-d1943200f0da">
+<img width="1509" alt="Screenshot 2024-10-01 at 3 08 33 PM" src="https://github.com/user-attachments/assets/0978b6b2-d101-411f-9a77-86e397c7fbc1">
+
+
+
+
 
 
